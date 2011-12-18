@@ -1,0 +1,11 @@
+## Interface: 40300
+## Title: |cff1784d1ElvUI|r EasyMail Skin
+## Notes: Editless EasyMail Skin For ElvUI/Tukui
+## Author: Camealion
+## Version: 1.5
+## Dependencies: EasyMail
+## OptionalDeps: Tukui, ElvUI
+
+ElvUI_EasyMail_Skin.lua
+!Functions.lua
+
